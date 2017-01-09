@@ -6,7 +6,7 @@
 2. Clone this repo.
 3. Go to the [Google Calendar API Python Quickstart](https://developers.google.com/google-apps/calendar/quickstart/python) page.
 4. Follow steps 1 and 2 very carefully. Make sure to copy `client_secret.json` to the same directory as your `get_one_week.py` script.
-5. Run `python get_one_week.py`. This should open up a browser window that asks for your authorization. This is a one-time thing.
+5. Run `python quickstart.py`. This should open up a browser window that asks for your authorization. This is a one-time thing.
 
 ## Using the script
 
